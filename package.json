@@ -1,0 +1,21 @@
+{
+  "name": "event-emitter",
+  "version": "1.0.0",
+  "description": "Re-learning events in Node.js.",
+  "type": "module",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/izaiasneto4/node-event-emitter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/izaiasneto4/node-event-emitter/issues"
+  },
+  "homepage": "https://github.com/izaiasneto4/node-event-emitter#readme"
+}
